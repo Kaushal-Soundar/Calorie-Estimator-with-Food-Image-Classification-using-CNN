@@ -1,0 +1,105 @@
+﻿Category ID,Class,Calories per 100g
+0,background,0
+1,candy,384
+2,egg tart,273
+3,french fries,312
+4,chocolate,546
+5,biscuit,379
+6,popcorn,387
+7,pudding,115
+8,ice cream,207
+9,cheese butter,402
+10,cake,350
+11,wine,85
+12,milkshake,112
+13,coffee,5
+14,juice,52
+15,milk,42
+16,tea,5
+17,almond,579
+18,red beans,127
+19,cashew,553
+20,dried cranberries,325
+21,soy,449
+22,walnut,654
+23,peanut,567
+24,egg,155
+25,apple,52
+26,date,282
+27,apricot,48
+28,avocado,160
+29,banana,89
+30,strawberry,33
+31,cherry,50
+32,blueberry,57
+33,raspberry,52
+34,mango,60
+35,olives,115
+36,peach,39
+37,lemon,29
+38,pear,57
+39,fig,74
+40,pineapple,50
+41,grape,69
+42,kiwi,61
+43,melon,34
+44,orange,47
+45,watermelon,30
+46,steak,271
+47,pork,242
+48,chicken duck,239
+49,sausage,301
+50,fried meat,300
+51,lamb,294
+52,sauce,100
+53,crab,82
+54,fish,206
+55,shellfish,85
+56,shrimp,99
+57,soup,40
+58,bread,265
+59,corn,365
+60,hamburg,280
+61,pizza,266
+62,hanamaki baozi,215
+63,wonton dumplings,213
+64,pasta,131
+65,noodles,138
+66,rice,130
+67,pie,260
+68,tofu,76
+69,eggplant,25
+70,potato,77
+71,garlic,149
+72,cauliflower,25
+73,tomato,18
+74,kelp,43
+75,seaweed,45
+76,spring onion,32
+77,rape,69
+78,ginger,80
+79,okra,33
+80,lettuce,15
+81,pumpkin,26
+82,cucumber,15
+83,white radish,18
+84,carrot,41
+85,asparagus,20
+86,bamboo shoots,27
+87,broccoli,34
+88,celery stick,16
+89,cilantro mint,23
+90,snow peas,42
+91,cabbage,25
+92,bean sprouts,30
+93,onion,40
+94,pepper,20
+95,green beans,31
+96,French beans,31
+97,king oyster mushroom,35
+98,shiitake,34
+99,enoki mushroom,37
+100,oyster mushroom,33
+101,white button mushroom,22
+102,salad,10
+103,other foods ,0
